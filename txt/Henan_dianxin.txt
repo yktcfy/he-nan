@@ -19,17 +19,17 @@ http://1.192.242.184:8188/rtp/239.16.20.120:11200
 #EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/梨园频道.png" group-title="央视高清",河南戏曲
 http://1.192.242.184:8188/rtp/239.16.20.171:11710
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
-http://1.192.242.184:8188/rtp/225.1.4.140:1176
+http://1.192.242.184:8188/rtp/239.16.10.154:2000
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://www.yangfeiyue.cn/tv/郑州商都.png" group-title="郑州商都",郑州商都
-http://1.192.242.184:8188/rtp/225.1.4.141:1177
+http://1.192.242.184:8188/rtp/239.16.10.155:2000
 #EXTINF:-1 tvg-id="郑州文体" tvg-name="郑州文体" tvg-logo="https://www.yangfeiyue.cn/tv/郑州文体.png" group-title="郑州文体",郑州文体
-http://1.192.242.184:8188/rtp/225.1.4.142:1178
+http://1.192.242.184:8188/rtp/239.16.10.156:2000
 #EXTINF:-1 tvg-id="郑州戏曲" tvg-name="郑州戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/郑州戏曲.png" group-title="郑州戏曲",郑州戏曲
-http://1.192.242.184:8188/rtp/225.1.4.146:1182
+http://1.192.242.184:8188/rtp/239.16.10.157:2000
 #EXTINF:-1 tvg-id="郑州妇女" tvg-name="郑州妇女" tvg-logo="https://www.yangfeiyue.cn/tv/郑州妇女.png" group-title="郑州妇女",郑州妇女
-http://1.192.242.184:8188/rtp/225.1.4.147:1183
+http://1.192.242.184:8188/rtp/239.16.10.158:2000
 #EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="https://www.yangfeiyue.cn/tv/郑州生活.png" group-title="郑州生活",郑州生活
-http://1.192.242.184:8188/rtp/225.1.4.149:1185
+http://1.192.242.184:8188/rtp/239.16.10.159:2000
 #EXTINF:-1 tvg-id="邓州综合" tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="卫视高清",邓州综合
 http://1.192.242.184:8188/rtp/239.16.20.20:10200
 #EXTINF:-1 tvg-id="封丘综合" tvg-name="封丘综合" tvg-logo="https://live.fanmingming.com/tv/封丘综合.png" group-title="卫视高清",封丘综合
@@ -101,17 +101,17 @@ http://171.8.106.122:8800/rtp/239.16.20.120:11200
 #EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/梨园频道.png" group-title="央视高清",河南戏曲
 http://171.8.106.122:8800/rtp/239.16.20.171:11710
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
-http://171.8.106.122:8800/rtp/225.1.4.140:1176
+http://171.8.106.122:8800/rtp/239.16.10.154:2000
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://www.yangfeiyue.cn/tv/郑州商都.png" group-title="郑州商都",郑州商都
-http://171.8.106.122:8800/rtp/225.1.4.141:1177
+http://171.8.106.122:8800/rtp/239.16.10.155:2000
 #EXTINF:-1 tvg-id="郑州文体" tvg-name="郑州文体" tvg-logo="https://www.yangfeiyue.cn/tv/郑州文体.png" group-title="郑州文体",郑州文体
-http://171.8.106.122:8800/rtp/225.1.4.142:1178
+http://171.8.106.122:8800/rtp/239.16.10.156:2000
 #EXTINF:-1 tvg-id="郑州戏曲" tvg-name="郑州戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/郑州戏曲.png" group-title="郑州戏曲",郑州戏曲
-http://171.8.106.122:8800/rtp/225.1.4.146:1182
+http://171.8.106.122:8800/rtp/239.16.10.157:2000
 #EXTINF:-1 tvg-id="郑州妇女" tvg-name="郑州妇女" tvg-logo="https://www.yangfeiyue.cn/tv/郑州妇女.png" group-title="郑州妇女",郑州妇女
-http://171.8.106.122:8800/rtp/225.1.4.147:1183
+http://171.8.106.122:8800/rtp/239.16.10.158:2000
 #EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="https://www.yangfeiyue.cn/tv/郑州生活.png" group-title="郑州生活",郑州生活
-http://171.8.106.122:8800/rtp/225.1.4.149:1185
+http://171.8.106.122:8800/rtp/239.16.10.159:2000
 #EXTINF:-1 tvg-id="邓州综合" tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="卫视高清",邓州综合
 http://171.8.106.122:8800/rtp/239.16.20.20:10200
 #EXTINF:-1 tvg-id="封丘综合" tvg-name="封丘综合" tvg-logo="https://live.fanmingming.com/tv/封丘综合.png" group-title="卫视高清",封丘综合
@@ -183,17 +183,17 @@ http://123.160.174.14:8800/rtp/239.16.20.120:11200
 #EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/梨园频道.png" group-title="央视高清",河南戏曲
 http://123.160.174.14:8800/rtp/239.16.20.171:11710
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
-http://123.160.174.14:8800/rtp/225.1.4.140:1176
+http://123.160.174.14:8800/rtp/239.16.10.154:2000
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://www.yangfeiyue.cn/tv/郑州商都.png" group-title="郑州商都",郑州商都
-http://123.160.174.14:8800/rtp/225.1.4.141:1177
+http://123.160.174.14:8800/rtp/239.16.10.155:2000
 #EXTINF:-1 tvg-id="郑州文体" tvg-name="郑州文体" tvg-logo="https://www.yangfeiyue.cn/tv/郑州文体.png" group-title="郑州文体",郑州文体
-http://123.160.174.14:8800/rtp/225.1.4.142:1178
+http://123.160.174.14:8800/rtp/239.16.10.156:2000
 #EXTINF:-1 tvg-id="郑州戏曲" tvg-name="郑州戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/郑州戏曲.png" group-title="郑州戏曲",郑州戏曲
-http://123.160.174.14:8800/rtp/225.1.4.146:1182
+http://123.160.174.14:8800/rtp/239.16.10.157:2000
 #EXTINF:-1 tvg-id="郑州妇女" tvg-name="郑州妇女" tvg-logo="https://www.yangfeiyue.cn/tv/郑州妇女.png" group-title="郑州妇女",郑州妇女
-http://123.160.174.14:8800/rtp/225.1.4.147:1183
+http://123.160.174.14:8800/rtp/239.16.10.158:2000
 #EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="https://www.yangfeiyue.cn/tv/郑州生活.png" group-title="郑州生活",郑州生活
-http://123.160.174.14:8800/rtp/225.1.4.149:1185
+http://123.160.174.14:8800/rtp/239.16.10.159:2000
 #EXTINF:-1 tvg-id="邓州综合" tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="卫视高清",邓州综合
 http://123.160.174.14:8800/rtp/239.16.20.20:10200
 #EXTINF:-1 tvg-id="封丘综合" tvg-name="封丘综合" tvg-logo="https://live.fanmingming.com/tv/封丘综合.png" group-title="卫视高清",封丘综合
@@ -265,17 +265,17 @@ http://1.193.37.99:8800/rtp/239.16.20.120:11200
 #EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/梨园频道.png" group-title="央视高清",河南戏曲
 http://1.193.37.99:8800/rtp/239.16.20.171:11710
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
-http://1.193.37.99:8800/rtp/225.1.4.140:1176
+http://1.193.37.99:8800/rtp/239.16.10.154:2000
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://www.yangfeiyue.cn/tv/郑州商都.png" group-title="郑州商都",郑州商都
-http://1.193.37.99:8800/rtp/225.1.4.141:1177
+http://1.193.37.99:8800/rtp/239.16.10.155:2000
 #EXTINF:-1 tvg-id="郑州文体" tvg-name="郑州文体" tvg-logo="https://www.yangfeiyue.cn/tv/郑州文体.png" group-title="郑州文体",郑州文体
-http://1.193.37.99:8800/rtp/225.1.4.142:1178
+http://1.193.37.99:8800/rtp/239.16.10.156:2000
 #EXTINF:-1 tvg-id="郑州戏曲" tvg-name="郑州戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/郑州戏曲.png" group-title="郑州戏曲",郑州戏曲
-http://1.193.37.99:8800/rtp/225.1.4.146:1182
+http://1.193.37.99:8800/rtp/239.16.10.157:2000
 #EXTINF:-1 tvg-id="郑州妇女" tvg-name="郑州妇女" tvg-logo="https://www.yangfeiyue.cn/tv/郑州妇女.png" group-title="郑州妇女",郑州妇女
-http://1.193.37.99:8800/rtp/225.1.4.147:1183
+http://1.193.37.99:8800/rtp/239.16.10.158:2000
 #EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="https://www.yangfeiyue.cn/tv/郑州生活.png" group-title="郑州生活",郑州生活
-http://1.193.37.99:8800/rtp/225.1.4.149:1185
+http://1.193.37.99:8800/rtp/239.16.10.159:2000
 #EXTINF:-1 tvg-id="邓州综合" tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="卫视高清",邓州综合
 http://1.193.37.99:8800/rtp/239.16.20.20:10200
 #EXTINF:-1 tvg-id="封丘综合" tvg-name="封丘综合" tvg-logo="https://live.fanmingming.com/tv/封丘综合.png" group-title="卫视高清",封丘综合
@@ -347,17 +347,17 @@ http://171.8.171.86:8800/rtp/239.16.20.120:11200
 #EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/梨园频道.png" group-title="央视高清",河南戏曲
 http://171.8.171.86:8800/rtp/239.16.20.171:11710
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
-http://171.8.171.86:8800/rtp/225.1.4.140:1176
+http://171.8.171.86:8800/rtp/239.16.10.154:2000
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://www.yangfeiyue.cn/tv/郑州商都.png" group-title="郑州商都",郑州商都
-http://171.8.171.86:8800/rtp/225.1.4.141:1177
+http://171.8.171.86:8800/rtp/239.16.10.155:2000
 #EXTINF:-1 tvg-id="郑州文体" tvg-name="郑州文体" tvg-logo="https://www.yangfeiyue.cn/tv/郑州文体.png" group-title="郑州文体",郑州文体
-http://171.8.171.86:8800/rtp/225.1.4.142:1178
+http://171.8.171.86:8800/rtp/239.16.10.156:2000
 #EXTINF:-1 tvg-id="郑州戏曲" tvg-name="郑州戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/郑州戏曲.png" group-title="郑州戏曲",郑州戏曲
-http://171.8.171.86:8800/rtp/225.1.4.146:1182
+http://171.8.171.86:8800/rtp/239.16.10.157:2000
 #EXTINF:-1 tvg-id="郑州妇女" tvg-name="郑州妇女" tvg-logo="https://www.yangfeiyue.cn/tv/郑州妇女.png" group-title="郑州妇女",郑州妇女
-http://171.8.171.86:8800/rtp/225.1.4.147:1183
+http://171.8.171.86:8800/rtp/239.16.10.158:2000
 #EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="https://www.yangfeiyue.cn/tv/郑州生活.png" group-title="郑州生活",郑州生活
-http://171.8.171.86:8800/rtp/225.1.4.149:1185
+http://171.8.171.86:8800/rtp/239.16.10.159:2000
 #EXTINF:-1 tvg-id="邓州综合" tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="卫视高清",邓州综合
 http://171.8.171.86:8800/rtp/239.16.20.20:10200
 #EXTINF:-1 tvg-id="封丘综合" tvg-name="封丘综合" tvg-logo="https://live.fanmingming.com/tv/封丘综合.png" group-title="卫视高清",封丘综合
@@ -429,17 +429,17 @@ http://171.8.170.125:8800/rtp/239.16.20.120:11200
 #EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/梨园频道.png" group-title="央视高清",河南戏曲
 http://171.8.170.125:8800/rtp/239.16.20.171:11710
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
-http://171.8.170.125:8800/rtp/225.1.4.140:1176
+http://171.8.170.125:8800/rtp/239.16.10.154:2000
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://www.yangfeiyue.cn/tv/郑州商都.png" group-title="郑州商都",郑州商都
-http://171.8.170.125:8800/rtp/225.1.4.141:1177
+http://171.8.170.125:8800/rtp/239.16.10.155:2000
 #EXTINF:-1 tvg-id="郑州文体" tvg-name="郑州文体" tvg-logo="https://www.yangfeiyue.cn/tv/郑州文体.png" group-title="郑州文体",郑州文体
-http://171.8.170.125:8800/rtp/225.1.4.142:1178
+http://171.8.170.125:8800/rtp/239.16.10.156:2000
 #EXTINF:-1 tvg-id="郑州戏曲" tvg-name="郑州戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/郑州戏曲.png" group-title="郑州戏曲",郑州戏曲
-http://171.8.170.125:8800/rtp/225.1.4.146:1182
+http://171.8.170.125:8800/rtp/239.16.10.157:2000
 #EXTINF:-1 tvg-id="郑州妇女" tvg-name="郑州妇女" tvg-logo="https://www.yangfeiyue.cn/tv/郑州妇女.png" group-title="郑州妇女",郑州妇女
-http://171.8.170.125:8800/rtp/225.1.4.147:1183
+http://171.8.170.125:8800/rtp/239.16.10.158:2000
 #EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="https://www.yangfeiyue.cn/tv/郑州生活.png" group-title="郑州生活",郑州生活
-http://171.8.170.125:8800/rtp/225.1.4.149:1185
+http://171.8.170.125:8800/rtp/239.16.10.159:2000
 #EXTINF:-1 tvg-id="邓州综合" tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="卫视高清",邓州综合
 http://171.8.170.125:8800/rtp/239.16.20.20:10200
 #EXTINF:-1 tvg-id="封丘综合" tvg-name="封丘综合" tvg-logo="https://live.fanmingming.com/tv/封丘综合.png" group-title="卫视高清",封丘综合
@@ -511,17 +511,17 @@ http://171.8.170.125:8811/rtp/239.16.20.120:11200
 #EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/梨园频道.png" group-title="央视高清",河南戏曲
 http://171.8.170.125:8811/rtp/239.16.20.171:11710
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
-http://171.8.170.125:8811/rtp/225.1.4.140:1176
+http://171.8.170.125:8811/rtp/239.16.10.154:2000
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://www.yangfeiyue.cn/tv/郑州商都.png" group-title="郑州商都",郑州商都
-http://171.8.170.125:8811/rtp/225.1.4.141:1177
+http://171.8.170.125:8811/rtp/239.16.10.155:2000
 #EXTINF:-1 tvg-id="郑州文体" tvg-name="郑州文体" tvg-logo="https://www.yangfeiyue.cn/tv/郑州文体.png" group-title="郑州文体",郑州文体
-http://171.8.170.125:8811/rtp/225.1.4.142:1178
+http://171.8.170.125:8811/rtp/239.16.10.156:2000
 #EXTINF:-1 tvg-id="郑州戏曲" tvg-name="郑州戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/郑州戏曲.png" group-title="郑州戏曲",郑州戏曲
-http://171.8.170.125:8811/rtp/225.1.4.146:1182
+http://171.8.170.125:8811/rtp/239.16.10.157:2000
 #EXTINF:-1 tvg-id="郑州妇女" tvg-name="郑州妇女" tvg-logo="https://www.yangfeiyue.cn/tv/郑州妇女.png" group-title="郑州妇女",郑州妇女
-http://171.8.170.125:8811/rtp/225.1.4.147:1183
+http://171.8.170.125:8811/rtp/239.16.10.158:2000
 #EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="https://www.yangfeiyue.cn/tv/郑州生活.png" group-title="郑州生活",郑州生活
-http://171.8.170.125:8811/rtp/225.1.4.149:1185
+http://171.8.170.125:8811/rtp/239.16.10.159:2000
 #EXTINF:-1 tvg-id="邓州综合" tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="卫视高清",邓州综合
 http://171.8.170.125:8811/rtp/239.16.20.20:10200
 #EXTINF:-1 tvg-id="封丘综合" tvg-name="封丘综合" tvg-logo="https://live.fanmingming.com/tv/封丘综合.png" group-title="卫视高清",封丘综合
@@ -593,17 +593,17 @@ http://1.197.127.216:8000/rtp/239.16.20.120:11200
 #EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/梨园频道.png" group-title="央视高清",河南戏曲
 http://1.197.127.216:8000/rtp/239.16.20.171:11710
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://www.yangfeiyue.cn/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
-http://1.197.127.216:8000/rtp/225.1.4.140:1176
+http://1.197.127.216:8000/rtp/239.16.10.154:2000
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://www.yangfeiyue.cn/tv/郑州商都.png" group-title="郑州商都",郑州商都
-http://1.197.127.216:8000/rtp/225.1.4.141:1177
+http://1.197.127.216:8000/rtp/239.16.10.155:2000
 #EXTINF:-1 tvg-id="郑州文体" tvg-name="郑州文体" tvg-logo="https://www.yangfeiyue.cn/tv/郑州文体.png" group-title="郑州文体",郑州文体
-http://1.197.127.216:8000/rtp/225.1.4.142:1178
+http://1.197.127.216:8000/rtp/239.16.10.156:2000
 #EXTINF:-1 tvg-id="郑州戏曲" tvg-name="郑州戏曲" tvg-logo="https://www.yangfeiyue.cn/tv/郑州戏曲.png" group-title="郑州戏曲",郑州戏曲
-http://1.197.127.216:8000/rtp/225.1.4.146:1182
+http://1.197.127.216:8000/rtp/239.16.10.157:2000
 #EXTINF:-1 tvg-id="郑州妇女" tvg-name="郑州妇女" tvg-logo="https://www.yangfeiyue.cn/tv/郑州妇女.png" group-title="郑州妇女",郑州妇女
-http://1.197.127.216:8000/rtp/225.1.4.147:1183
+http://1.197.127.216:8000/rtp/239.16.10.158:2000
 #EXTINF:-1 tvg-id="郑州生活" tvg-name="郑州生活" tvg-logo="https://www.yangfeiyue.cn/tv/郑州生活.png" group-title="郑州生活",郑州生活
-http://1.197.127.216:8000/rtp/225.1.4.149:1185
+http://1.197.127.216:8000/rtp/239.16.10.159:2000
 #EXTINF:-1 tvg-id="邓州综合" tvg-name="邓州综合" tvg-logo="https://live.fanmingming.com/tv/邓州综合.png" group-title="卫视高清",邓州综合
 http://1.197.127.216:8000/rtp/239.16.20.20:10200
 #EXTINF:-1 tvg-id="封丘综合" tvg-name="封丘综合" tvg-logo="https://live.fanmingming.com/tv/封丘综合.png" group-title="卫视高清",封丘综合
