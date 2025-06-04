@@ -76,6 +76,28 @@ http://ipipip/rtp/239.16.10.172:2000
 http://ipipip/rtp/239.16.10.173:2000
 #EXTINF:-1 tvg-id="周口新闻综合" tvg-name="周口新闻综合" tvg-logo="https://live.fanmingming.com/tv/周口新闻综合.png" group-title="卫视高清",周口新闻综合
 http://ipipip/rtp/239.16.10.59:2000
+#EXTINF:-1 tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://live.fanmingming.com/tv/开封新闻综合.png" group-title="卫视高清",开封新闻综合
+http://ipipip/rtp/239.16.10.57:2000
+#EXTINF:-1 tvg-id="开封文化旅游" tvg-name="开封文化旅游" tvg-logo="https://live.fanmingming.com/tv/开封文化旅游.png" group-title="卫视高清",开封文化旅游
+http://ipipip/rtp/239.16.10.177:2000
+#EXTINF:-1 tvg-id="漯河新闻综合" tvg-name="漯河新闻综合" tvg-logo="https://live.fanmingming.com/tv/漯河新闻综合.png" group-title="卫视高清",漯河新闻综合
+http://ipipip/rtp/239.16.10.49:2000
+#EXTINF:-1 tvg-id="信阳新闻综合" tvg-name="信阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/信阳新闻综合.png" group-title="卫视高清",信阳新闻综合
+http://ipipip/rtp/239.16.10.52:2000
+#EXTINF:-1 tvg-id="信阳文旅" tvg-name="信阳文旅" tvg-logo="https://live.fanmingming.com/tv/信阳文旅.png" group-title="卫视高清",信阳文旅
+http://ipipip/rtp/239.16.10.71:2000
+#EXTINF:-1 tvg-id="安阳新闻综合" tvg-name="安阳新闻综合" tvg-logo="https://live.fanmingming.com/tv/安阳新闻综合.png" group-title="卫视高清",安阳新闻综合
+http://ipipip/rtp/239.16.20.144:11440
+#EXTINF:-1 tvg-id="三门峡新闻综合" tvg-name="三门峡新闻综合" tvg-logo="https://live.fanmingming.com/tv/三门峡新闻综合.png" group-title="卫视高清",三门峡新闻综合
+http://ipipip/rtp/239.16.20.145:11450
+#EXTINF:-1 tvg-id="内黄综合" tvg-name="内黄综合" tvg-logo="https://live.fanmingming.com/tv/内黄综合.png" group-title="卫视高清",内黄综合
+http://ipipip/rtp/239.16.20.228:12280
+#EXTINF:-1 tvg-id="郏县综合" tvg-name="郏县综合" tvg-logo="https://live.fanmingming.com/tv/郏县综合.png" group-title="卫视高清",郏县综合
+http://ipipip/rtp/239.16.20.235:12350
+#EXTINF:-1 tvg-id="卫辉综合" tvg-name="卫辉综合" tvg-logo="https://live.fanmingming.com/tv/卫辉综合.png" group-title="卫视高清",卫辉综合
+http://ipipip/rtp/239.16.20.191:11910
+#EXTINF:-1 tvg-id="义马综合" tvg-name="义马综合" tvg-logo="https://live.fanmingming.com/tv/义马综合.png" group-title="卫视高清",义马综合
+http://ipipip/rtp/239.16.20.109:11090
 #EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://live.fanmingming.com/tv/国学.png" group-title="卫视高清",国学
 http://ipipip/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
