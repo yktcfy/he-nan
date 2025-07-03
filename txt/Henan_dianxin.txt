@@ -102,7 +102,7 @@ http://123.101.98.59:2009/rtp/239.16.20.109:11090
 http://123.101.98.59:2009/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://123.101.98.59:2009/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://123.101.98.59:2009/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.109.157:2009/rtp/239.16.20.164:11640
@@ -208,7 +208,7 @@ http://106.42.109.157:2009/rtp/239.16.20.109:11090
 http://106.42.109.157:2009/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.109.157:2009/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.109.157:2009/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://123.101.98.59:2001/rtp/239.16.20.164:11640
@@ -314,7 +314,7 @@ http://123.101.98.59:2001/rtp/239.16.20.109:11090
 http://123.101.98.59:2001/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://123.101.98.59:2001/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://123.101.98.59:2001/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://1.196.152.212:2008/rtp/239.16.20.164:11640
@@ -420,7 +420,7 @@ http://1.196.152.212:2008/rtp/239.16.20.109:11090
 http://1.196.152.212:2008/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://1.196.152.212:2008/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://1.196.152.212:2008/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://1.196.152.212:2003/rtp/239.16.20.164:11640
@@ -526,7 +526,7 @@ http://1.196.152.212:2003/rtp/239.16.20.109:11090
 http://1.196.152.212:2003/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://1.196.152.212:2003/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://1.196.152.212:2003/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.109.157:2008/rtp/239.16.20.164:11640
@@ -632,7 +632,7 @@ http://106.42.109.157:2008/rtp/239.16.20.109:11090
 http://106.42.109.157:2008/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.109.157:2008/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.109.157:2008/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://171.8.170.197:8811/rtp/239.16.20.164:11640
@@ -738,7 +738,7 @@ http://171.8.170.197:8811/rtp/239.16.20.109:11090
 http://171.8.170.197:8811/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://171.8.170.197:8811/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://171.8.170.197:8811/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.109.157:2004/rtp/239.16.20.164:11640
@@ -844,7 +844,7 @@ http://106.42.109.157:2004/rtp/239.16.20.109:11090
 http://106.42.109.157:2004/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.109.157:2004/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.109.157:2004/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://1.196.152.212:2006/rtp/239.16.20.164:11640
@@ -950,7 +950,7 @@ http://1.196.152.212:2006/rtp/239.16.20.109:11090
 http://1.196.152.212:2006/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://1.196.152.212:2006/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://1.196.152.212:2006/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.109.157:2002/rtp/239.16.20.164:11640
@@ -1056,7 +1056,7 @@ http://106.42.109.157:2002/rtp/239.16.20.109:11090
 http://106.42.109.157:2002/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.109.157:2002/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.109.157:2002/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.109.157:2006/rtp/239.16.20.164:11640
@@ -1162,7 +1162,7 @@ http://106.42.109.157:2006/rtp/239.16.20.109:11090
 http://106.42.109.157:2006/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.109.157:2006/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.109.157:2006/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.108.25:2005/rtp/239.16.20.164:11640
@@ -1268,7 +1268,7 @@ http://106.42.108.25:2005/rtp/239.16.20.109:11090
 http://106.42.108.25:2005/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.108.25:2005/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.108.25:2005/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://123.101.98.59:2004/rtp/239.16.20.164:11640
@@ -1374,7 +1374,7 @@ http://123.101.98.59:2004/rtp/239.16.20.109:11090
 http://123.101.98.59:2004/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://123.101.98.59:2004/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://123.101.98.59:2004/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://123.101.98.59:2003/rtp/239.16.20.164:11640
@@ -1480,7 +1480,7 @@ http://123.101.98.59:2003/rtp/239.16.20.109:11090
 http://123.101.98.59:2003/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://123.101.98.59:2003/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://123.101.98.59:2003/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.108.25:2006/rtp/239.16.20.164:11640
@@ -1586,7 +1586,7 @@ http://106.42.108.25:2006/rtp/239.16.20.109:11090
 http://106.42.108.25:2006/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.108.25:2006/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.108.25:2006/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.108.25:2003/rtp/239.16.20.164:11640
@@ -1692,7 +1692,7 @@ http://106.42.108.25:2003/rtp/239.16.20.109:11090
 http://106.42.108.25:2003/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.108.25:2003/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.108.25:2003/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://1.196.152.212:2007/rtp/239.16.20.164:11640
@@ -1798,7 +1798,7 @@ http://1.196.152.212:2007/rtp/239.16.20.109:11090
 http://1.196.152.212:2007/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://1.196.152.212:2007/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://1.196.152.212:2007/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://171.8.170.197:8800/rtp/239.16.20.164:11640
@@ -1904,7 +1904,7 @@ http://171.8.170.197:8800/rtp/239.16.20.109:11090
 http://171.8.170.197:8800/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://171.8.170.197:8800/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://171.8.170.197:8800/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.108.25:2009/rtp/239.16.20.164:11640
@@ -2010,7 +2010,7 @@ http://106.42.108.25:2009/rtp/239.16.20.109:11090
 http://106.42.108.25:2009/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.108.25:2009/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.108.25:2009/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://1.196.152.212:2004/rtp/239.16.20.164:11640
@@ -2116,7 +2116,7 @@ http://1.196.152.212:2004/rtp/239.16.20.109:11090
 http://1.196.152.212:2004/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://1.196.152.212:2004/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://1.196.152.212:2004/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.108.25:2004/rtp/239.16.20.164:11640
@@ -2222,7 +2222,7 @@ http://106.42.108.25:2004/rtp/239.16.20.109:11090
 http://106.42.108.25:2004/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.108.25:2004/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.108.25:2004/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.109.157:2001/rtp/239.16.20.164:11640
@@ -2328,7 +2328,7 @@ http://106.42.109.157:2001/rtp/239.16.20.109:11090
 http://106.42.109.157:2001/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.109.157:2001/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.109.157:2001/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://123.101.98.59:2002/rtp/239.16.20.164:11640
@@ -2434,7 +2434,7 @@ http://123.101.98.59:2002/rtp/239.16.20.109:11090
 http://123.101.98.59:2002/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://123.101.98.59:2002/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://123.101.98.59:2002/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.108.25:2008/rtp/239.16.20.164:11640
@@ -2540,7 +2540,7 @@ http://106.42.108.25:2008/rtp/239.16.20.109:11090
 http://106.42.108.25:2008/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.108.25:2008/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.108.25:2008/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.109.157:2007/rtp/239.16.20.164:11640
@@ -2646,7 +2646,7 @@ http://106.42.109.157:2007/rtp/239.16.20.109:11090
 http://106.42.109.157:2007/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.109.157:2007/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.109.157:2007/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://1.196.152.212:2001/rtp/239.16.20.164:11640
@@ -2752,7 +2752,7 @@ http://1.196.152.212:2001/rtp/239.16.20.109:11090
 http://1.196.152.212:2001/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://1.196.152.212:2001/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://1.196.152.212:2001/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://106.42.108.25:2010/rtp/239.16.20.164:11640
@@ -2858,7 +2858,7 @@ http://106.42.108.25:2010/rtp/239.16.20.109:11090
 http://106.42.108.25:2010/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://106.42.108.25:2010/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://106.42.108.25:2010/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://1.196.152.212:2005/rtp/239.16.20.164:11640
@@ -2964,7 +2964,7 @@ http://1.196.152.212:2005/rtp/239.16.20.109:11090
 http://1.196.152.212:2005/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://1.196.152.212:2005/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://1.196.152.212:2005/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://1.196.152.212:2009/rtp/239.16.20.164:11640
@@ -3070,7 +3070,7 @@ http://1.196.152.212:2009/rtp/239.16.20.109:11090
 http://1.196.152.212:2009/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://1.196.152.212:2009/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://1.196.152.212:2009/rtp/239.16.20.113:11130
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://123.101.98.59:2008/rtp/239.16.20.164:11640
@@ -3176,5 +3176,5 @@ http://123.101.98.59:2008/rtp/239.16.20.109:11090
 http://123.101.98.59:2008/rtp/239.16.20.232:12320
 #EXTINF:-1 tvg-id="中华功夫" tvg-name="中华功夫" tvg-logo="https://live.fanmingming.com/tv/中华功夫.png" group-title="卫视高清",中华功夫
 http://123.101.98.59:2008/rtp/239.16.20.173:11730
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://123.101.98.59:2008/rtp/239.16.20.113:11130
