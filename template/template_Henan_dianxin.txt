@@ -12,13 +12,13 @@ http://ipipip/rtp/239.16.20.168:11680
 http://ipipip/rtp/239.16.20.170:11700
 #EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://live.fanmingming.com/tv/河南乡村.png" group-title="卫视高清",河南乡村
 http://ipipip/rtp/239.16.20.195:11950
-#EXTINF:-1 tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://live.fanmingming.com/tv/晴彩中原.png" group-title="卫视高清",睛彩中原
+#EXTINF:-1 tvg-id="河南曲艺" tvg-name="河南曲艺" tvg-logo="https://live.fanmingming.com/tv/河南曲艺.png" group-title="卫视高清",河南曲艺
 http://ipipip/rtp/239.16.20.122:11220
 #EXTINF:-1 tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://live.fanmingming.com/tv/移动戏曲.PNG" group-title="卫视高清",移动戏曲
 http://ipipip/rtp/239.16.20.120:11200
 #EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://live.fanmingming.com/tv/河南戏曲.png" group-title="央视高清",河南戏曲
 http://ipipip/rtp/239.16.20.171:11710
-#EXTINF:-1 tvg-id="河南移动" tvg-name="河南移动" tvg-logo="https://live.fanmingming.com/tv/河南移动.png" group-title="央视高清",河南移动
+#EXTINF:-1 tvg-id="移动电视" tvg-name="移动电视" tvg-logo="https://live.fanmingming.com/tv/移动电视.png" group-title="央视高清",移动电视
 http://ipipip/rtp/239.16.20.204:12040
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://live.fanmingming.com/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
 http://ipipip/rtp/239.16.10.154:2000
