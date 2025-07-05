@@ -106,3 +106,5 @@ http://ipipip/rtp/239.16.20.232:12320
 http://ipipip/rtp/239.16.20.173:11730
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="央视高清",新视觉
 http://ipipip/rtp/239.16.20.113:11130
+#EXTINF:-1 tvg-id="健康河南融媒" tvg-name="健康河南融媒" tvg-logo="https://live.fanmingming.com/tv/健康河南融媒.png" group-title="央视高清",健康河南融媒
+http://ipipip/239.16.20.239:12390
