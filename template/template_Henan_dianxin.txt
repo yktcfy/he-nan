@@ -16,8 +16,10 @@ http://ipipip/rtp/239.16.20.195:11950
 http://ipipip/rtp/239.16.20.122:11220
 #EXTINF:-1 tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://live.fanmingming.com/tv/移动戏曲.PNG" group-title="卫视高清",移动戏曲
 http://ipipip/rtp/239.16.20.120:11200
-#EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://live.fanmingming.com/tv/梨园频道.png" group-title="央视高清",河南戏曲
+#EXTINF:-1 tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://live.fanmingming.com/tv/河南戏曲.png" group-title="央视高清",河南戏曲
 http://ipipip/rtp/239.16.20.171:11710
+#EXTINF:-1 tvg-id="河南移动" tvg-name="河南移动" tvg-logo="https://live.fanmingming.com/tv/河南移动.png" group-title="央视高清",河南移动
+http://ipipip/rtp/239.16.20.204:12040
 #EXTINF:-1 tvg-id="郑州新闻" tvg-name="郑州新闻" tvg-logo="https://live.fanmingming.com/tv/郑州新闻.png" group-title="郑州新闻",郑州新闻
 http://ipipip/rtp/239.16.10.154:2000
 #EXTINF:-1 tvg-id="郑州商都" tvg-name="郑州商都" tvg-logo="https://live.fanmingming.com/tv/郑州商都.png" group-title="郑州商都",郑州商都
