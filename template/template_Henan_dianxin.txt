@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K.png" group-title="卫视高清",河南卫视4K
+http://ipipip/rtp/239.16.20.199:11990
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://ipipip/rtp/239.16.20.164:11640
 #EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="卫视高清",河南民生
