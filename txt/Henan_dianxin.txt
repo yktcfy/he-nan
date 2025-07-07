@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="调解剧场" tvg-name="调解剧场" tvg-logo="https://live.fanmingming.com/tv/调解剧场.png" group-title="本地高清",调解剧场
+http://106.42.108.16:2001/rtp/239.16.20.197:11970
 #EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K.png" group-title="卫视高清",河南卫视4K
 http://106.42.108.16:2001/rtp/239.16.20.199:11990
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
@@ -176,6 +178,8 @@ http://106.42.108.16:2001/rtp/239.16.20.156:11560
 http://106.42.108.16:2001/rtp/239.16.20.115:11150
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视高清",乐游
 http://106.42.108.16:2001/rtp/239.16.20.111:11110
+#EXTINF:-1 tvg-id="调解剧场" tvg-name="调解剧场" tvg-logo="https://live.fanmingming.com/tv/调解剧场.png" group-title="本地高清",调解剧场
+http://106.42.108.25:2005/rtp/239.16.20.197:11970
 #EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K.png" group-title="卫视高清",河南卫视4K
 http://106.42.108.25:2005/rtp/239.16.20.199:11990
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
@@ -354,6 +358,8 @@ http://106.42.108.25:2005/rtp/239.16.20.156:11560
 http://106.42.108.25:2005/rtp/239.16.20.115:11150
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视高清",乐游
 http://106.42.108.25:2005/rtp/239.16.20.111:11110
+#EXTINF:-1 tvg-id="调解剧场" tvg-name="调解剧场" tvg-logo="https://live.fanmingming.com/tv/调解剧场.png" group-title="本地高清",调解剧场
+http://171.8.170.125:8800/rtp/239.16.20.197:11970
 #EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K.png" group-title="卫视高清",河南卫视4K
 http://106.42.108.25:2004/rtp/239.16.20.199:11990
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
@@ -532,6 +538,8 @@ http://106.42.108.25:2004/rtp/239.16.20.156:11560
 http://106.42.108.25:2004/rtp/239.16.20.115:11150
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视高清",乐游
 http://106.42.108.25:2004/rtp/239.16.20.111:11110
+#EXTINF:-1 tvg-id="调解剧场" tvg-name="调解剧场" tvg-logo="https://live.fanmingming.com/tv/调解剧场.png" group-title="本地高清",调解剧场
+http://171.8.170.197:8800/rtp/239.16.20.197:11970
 #EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K.png" group-title="卫视高清",河南卫视4K
 http://1.196.152.212:2004/rtp/239.16.20.199:11990
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
@@ -710,6 +718,8 @@ http://1.196.152.212:2004/rtp/239.16.20.156:11560
 http://1.196.152.212:2004/rtp/239.16.20.115:11150
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视高清",乐游
 http://1.196.152.212:2004/rtp/239.16.20.111:11110
+#EXTINF:-1 tvg-id="调解剧场" tvg-name="调解剧场" tvg-logo="https://live.fanmingming.com/tv/调解剧场.png" group-title="本地高清",调解剧场
+http://171.8.170.197:8811/rtp/239.16.20.197:11970
 #EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K.png" group-title="卫视高清",河南卫视4K
 http://106.42.108.16:2007/rtp/239.16.20.199:11990
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
