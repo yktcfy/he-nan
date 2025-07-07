@@ -176,3 +176,5 @@ http://ipipip/rtp/239.16.20.156:11560
 http://ipipip/rtp/239.16.20.115:11150
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视高清",乐游
 http://ipipip/rtp/239.16.20.111:11110
+#EXTINF:-1 tvg-id="调解剧场" tvg-name="调解剧场" tvg-logo="https://live.fanmingming.com/tv/调解剧场.png" group-title="本地高清",调解剧场
+http://ipipip/rtp/239.16.20.197:11970
