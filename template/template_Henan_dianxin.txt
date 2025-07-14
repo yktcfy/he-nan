@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K.png" group-title="卫视高清",河南卫视4K
-http://ipipip/rtp/239.16.20.199:11990
+http://ipipip/rtp/239.16.10.210:2000
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="卫视高清",河南都市
 http://ipipip/rtp/239.16.10.120:2000
 #EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="卫视高清",河南民生
@@ -7,9 +7,9 @@ http://ipipip/rtp/239.16.20.165:11650
 #EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://live.fanmingming.com/tv/河南法治.png" group-title="卫视高清",河南法治
 http://ipipip/rtp/239.16.20.166:11660
 #EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://live.fanmingming.com/tv/河南电视剧.png" group-title="卫视高清",河南电视剧
-http://ipipip/rtp/239.16.20.167:11670
+http://ipipip/rtp/239.16.10.123:2000
 #EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://live.fanmingming.com/tv/河南新闻.png" group-title="卫视高清",河南新闻
-http://ipipip/rtp/239.16.20.168:11680
+http://ipipip/rtp/239.16.10.124:2000
 #EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://live.fanmingming.com/tv/河南公共.png" group-title="卫视高清",河南公共
 http://ipipip/rtp/239.16.10.126:2000
 #EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://live.fanmingming.com/tv/河南乡村.png" group-title="卫视高清",河南乡村
